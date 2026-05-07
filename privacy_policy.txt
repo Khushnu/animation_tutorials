@@ -1,0 +1,95 @@
+Privacy Policy
+App: MechSpend
+Effective date: 7 May 2026
+Contact: support@emilylogisticsltd.co.uk
+
+This Privacy Policy explains what information MechSpend (the "App", "we", "us") collects when you use it, how we use that information, and the choices you have. By installing or using MechSpend, you agree to this Policy.
+
+1. Information We Collect
+We only collect information that is necessary to operate the App's core features.
+
+Account information
+
+Email address — used to sign you in and to invite you to groups.
+Display name — shown to other members of any group you join.
+Encrypted password — handled by our authentication provider; we never see or store your password in plaintext.
+Group and expense data
+
+Group name and a 6-character invite code you generate.
+Expense amounts, categories, optional notes, and timestamps that you add.
+Monthly budget amounts you set for your group.
+Member-list metadata: who is in which group and when they joined.
+Device and notification data
+
+A Firebase Cloud Messaging (FCM) push token, stored on your profile so we can deliver notifications about activity in your groups (for example, when a flatmate adds an expense). The token is cleared when you sign out.
+Basic device platform identifier (iOS or Android) so notifications are delivered correctly.
+We do NOT collect:
+
+Your contacts, photos, location, microphone, or camera.
+Your phone number.
+Any biometric data.
+Any payment or financial-account information. MechSpend is a budget tracker; it does not move money.
+Advertising identifiers. We do not use ad networks.
+2. How We Use Your Information
+We use the information above only to:
+
+Authenticate you and keep you signed in.
+Show your group's budget, expenses, and member list to you and to the other members of your group.
+Send notifications about group activity (new expenses, invites, member changes).
+Diagnose and fix bugs, and improve the App.
+We do not use your information for advertising, profiling, or training machine-learning models.
+
+3. Who Can See Your Data
+Your group's data is visible only to:
+
+You.
+Other members of the group(s) you have joined.
+The group's owner, who can also remove members.
+We do not sell your data. We do not share your data with third parties for advertising. We share data only with the service providers listed below, strictly as needed to run the App.
+
+4. Service Providers
+MechSpend is built on top of two service providers:
+
+Supabase — used for authentication, secure database storage of your profile, groups, and expenses, and for real-time updates. Supabase processes data on your behalf as our backend.
+
+Firebase Cloud Messaging (Google) — used to deliver push notifications. We send the notification payload (a short title and body, e.g. "Ali added an expense") and your FCM token to Firebase so it can route the message to your device.
+
+These providers may store data in regions outside your country. They are bound by their own privacy commitments.
+
+5. Data Retention
+Your profile, expenses, and group memberships are retained for as long as your account exists.
+Push tokens are deleted when you sign out and replaced when you sign back in.
+Notifications older than what you see in the in-app list may be deleted from our servers periodically.
+You can delete your account at any time from Settings → Delete account. When you delete your account:
+
+Your profile, push tokens, notifications, and pending invitations are permanently removed.
+Your group memberships are removed.
+Past expenses you logged remain in the group's history so the totals stay accurate, but are no longer attributed to a named user.
+6. Children's Privacy
+MechSpend is not directed at children under 13 (or the equivalent minimum age in your jurisdiction), and we do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us and we will delete it.
+
+7. Security
+We use HTTPS for all data in transit. Passwords are hashed by our authentication provider. Database access is gated by row-level security rules so members can only read and write data for groups they belong to. No system is perfectly secure, but we follow standard industry practices to protect your data.
+
+8. Your Rights
+Depending on where you live, you may have the right to:
+
+Access the personal information we hold about you.
+Correct inaccurate information (you can edit your display name and expenses directly in the App).
+Delete your account and associated data (see Section 5).
+Export your data — contact us if you need this.
+To exercise any of these rights, email support@emilylogisticsltd.co.uk.
+
+9. Permissions the App Requests
+Notifications — to alert you about new activity in your groups. You can decline or revoke this in your device settings; the App still works without it.
+Internet — required to sync data with our backend.
+The App does not request access to contacts, photos, location, camera, microphone, files, or any other sensitive permission.
+
+10. Changes to This Policy
+We may update this Policy from time to time. When we do, we'll change the "Effective date" at the top and, for material changes, notify you in the App. Continued use of MechSpend after a change means you accept the updated Policy.
+
+11. Contact Us
+Questions, concerns, or data requests:
+
+MechSpend Support
+waleedah247@gmail.com
