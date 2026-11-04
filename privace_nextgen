@@ -1,0 +1,278 @@
+NEXTGEN REEFTECH LLC
+PRIVACY POLICY
+Effective Date: November 2, 2026
+Last Updated: November 2, 2026
+1. Introduction
+NextGen ReefTech LLC ("NextGen ReefTech," "Company," "we," "us," or "our") respects your privacy and is committed to protecting personal information collected through our products and services.
+This Privacy Policy explains how we collect, use, process, disclose, store, retain, and protect information when you use:
+• The NextGen ReefTech mobile application ("App"), available for Apple iOS and Android devices;
+• ReefEvolve lighting systems and associated software and firmware;
+• NextGen ReefTech user accounts;
+• Optional cloud synchronization and diagnostic services; and
+• Related digital services that reference this Privacy Policy.
+This Privacy Policy also explains your privacy rights and the choices available concerning the use of your information.
+By using our Services, you acknowledge receiving this Privacy Policy. Where applicable law requires consent for particular processing activities, we will obtain that consent separately.
+This Privacy Policy supplements, but does not replace, our Terms of Service, product warranties, installation instructions, or safety requirements.
+2. Account Registration and Operating Requirements
+The NextGen ReefTech mobile application requires users to create an account to access application-based functionality.
+Internet access is required to download the App and complete initial account registration. Once registered, users may access supported lighting control features through Bluetooth without an active internet connection or Wi-Fi configuration.
+Wi-Fi connectivity is optional and enables additional features, including cloud synchronization and automatic system diagnostic reporting.
+2.1 Manual Operation Without an Account
+Users who do not wish to create an account or use the App may operate their ReefEvolve lighting system through three physical potentiometers integrated into the lighting fixture.
+These controls provide manual adjustment of:
+• Blues: The blue lighting group;
+• Whites: The white lighting group; and
+• Shimmer: The shimmer lighting group.
+Manual operation does not require account registration, the App, Wi-Fi connectivity, or internet access.
+However, users operating exclusively through the physical controls will not have access to App-specific features, including programmable lighting schedules, individual channel control, preview functions, acclimation modes, and other supported software-based features.
+Manual operation through the physical potentiometers does not itself transmit personal information or operational data to NextGen ReefTech servers.
+2.2 Bluetooth Operation
+Registered users may operate their ReefEvolve lighting system through Bluetooth without enabling Wi-Fi connectivity.
+Bluetooth operation supports available App functions, including lighting schedules, individual channel adjustments, preview functions, acclimation modes, and other supported features.
+Lighting commands are communicated locally between the mobile device and ReefEvolve lighting system.
+Lighting schedules and configurations are stored locally on the mobile device and lighting system.
+Automatic ReefEvolve system diagnostic reporting and cloud synchronization are not enabled during Bluetooth-only operation.
+Account registration, authentication, and certain third-party App services may involve separate information processing, as described in this Privacy Policy.
+2.3 Wi-Fi and Cloud-Connected Operation
+Registered users may optionally establish Wi-Fi connectivity to access supported cloud-connected functionality.
+When Wi-Fi connectivity is enabled:
+• Lighting schedules and configurations may be synchronized between the mobile device, ReefEvolve lighting system, and NextGen ReefTech cloud infrastructure;
+• Relevant device and operational information may be processed to support cloud services;
+• Automatic ReefEvolve system diagnostic reporting is enabled; and
+• Cloud-based diagnostic information may be used for technical support, maintenance, security, and product improvement.
+Users are not required to enable Wi-Fi connectivity to access supported Bluetooth lighting functions.
+3. Information We Collect
+The categories of information collected depend on how you use our Services.
+3.1 Account Information
+When you register an account, we may collect:
+• Name or account display name;
+• Email address;
+• Account identifiers;
+• Authentication credentials or securely protected authentication information;
+• Registered ReefEvolve product identifiers;
+• Account preferences; and
+• Relevant account-security information.
+We use this information to create and maintain accounts, authenticate users, provide account-related functionality, and protect our Services.
+We do not require account registration for manual operation through the physical potentiometers.
+3.2 Lighting System and Configuration Information
+When you use the App, information processed locally may include:
+• ReefEvolve product model and device identifiers;
+• Hardware and firmware versions;
+• Lighting schedules;
+• Individual channel intensity settings;
+• Lighting presets and configurations;
+• Preview and acclimation settings;
+• Connectivity status; and
+• Relevant operating information.
+During Bluetooth-only operation, schedules and configurations are maintained locally on the mobile device and ReefEvolve lighting system.
+When account-enabled Wi-Fi connectivity is established, supported schedules and configurations are also stored and synchronized through our cloud infrastructure.
+3.3 Wi-Fi and Network Information
+When Wi-Fi connectivity is configured, the App may process:
+• Wi-Fi network names (SSIDs);
+• Wi-Fi credentials provided by the user;
+• Local network information;
+• IP addresses;
+• Connectivity status;
+• Network errors; and
+• Technical information required to establish and maintain connectivity.
+Wi-Fi credentials are stored locally on the user's mobile device and are not stored on NextGen ReefTech cloud servers.
+Wi-Fi credentials are used for authorized network configuration and connectivity.
+NextGen ReefTech does not intentionally collect Wi-Fi passwords through cloud synchronization, analytics, or diagnostic reporting.
+Wi-Fi configuration is optional for App operation.
+3.4 Automatic System Diagnostics
+Automatic ReefEvolve system diagnostic reporting occurs when a registered user establishes Wi-Fi connectivity and uses supported cloud services.
+Depending on the event and available diagnostic capabilities, collected information may include:
+• Product and device identifiers;
+• Firmware versions;
+• System errors and fault codes;
+• Connectivity interruptions;
+• Software-update results;
+• Relevant operating conditions;
+• Diagnostic timestamps;
+• Technical performance information; and
+• Configuration information reasonably necessary to investigate technical problems.
+This information may be associated with a registered account or lighting system to facilitate troubleshooting and support.
+Automatic ReefEvolve system diagnostic reports are not transmitted to NextGen ReefTech servers during Bluetooth-only operation.
+Diagnostic reports are not intended to contain Wi-Fi passwords, authentication secrets, or unrelated personal content.
+3.5 Application Analytics and Crash Reporting
+The App may use third-party analytics and crash-reporting services to evaluate application performance, identify software errors, and improve reliability.
+Depending on the provider and configuration, information processed may include:
+• App version;
+• Device type and operating system;
+• Crash reports;
+• Performance measurements;
+• Feature usage information;
+• Technical identifiers;
+• IP addresses; and
+• Related diagnostic events.
+Application analytics and crash reporting are distinct from ReefEvolve lighting-system diagnostic reporting.
+Third-party services may process information independently of the lighting system's Bluetooth or Wi-Fi connection, depending on their configuration.
+We will disclose applicable third-party processing and provide permissions, choices, or consent mechanisms where required by law or app-store policies.
+3.6 Customer Support Information
+When you contact NextGen ReefTech for assistance, we may collect information you voluntarily provide, including:
+• Name and contact details;
+• Product information;
+• Descriptions of technical issues;
+• Screenshots or attachments;
+• Diagnostic files you submit; and
+• Communications with our support personnel.
+This information is used to respond to inquiries, investigate reported problems, and provide customer support.
+4. How We Use Information
+We process information for the following purposes:
+Account administration: Creating accounts, authenticating users, maintaining account preferences, and providing account-related services.
+Lighting system functionality: Supporting authorized App communication, configuration, and operation.
+Cloud synchronization: Maintaining supported lighting configurations and schedules across connected services.
+Technical diagnostics: Identifying system errors, investigating failures, and evaluating operational reliability.
+Software maintenance: Supporting updates, compatibility, stability, and security.
+Product improvement: Identifying recurring problems and improving App and ReefEvolve performance.
+Customer support: Responding to inquiries and investigating technical issues.
+Information security: Protecting accounts, systems, and infrastructure against unauthorized access and abuse.
+Legal compliance: Complying with applicable laws, responding to lawful requests, and establishing or defending legal claims.
+We will not use personal information for materially unrelated purposes without providing any additional notice or obtaining consent required by applicable law.
+5. Local Storage and Cloud Synchronization
+ReefEvolve supports local operation and optional cloud-connected operation.
+5.1 Local Storage
+During Bluetooth-only operation, lighting schedules and configurations are stored on the user's mobile device and ReefEvolve lighting system.
+This information is not synchronized with NextGen ReefTech cloud storage unless supported Wi-Fi cloud connectivity is enabled.
+5.2 Cloud Storage
+When Wi-Fi cloud connectivity is enabled through a registered account, supported schedules and configurations are stored on the mobile device, ReefEvolve lighting system, and NextGen ReefTech cloud infrastructure.
+Cloud-stored information is processed to provide synchronization and associated connected functionality.
+5.3 Removal of Locally Stored Information
+Deleting the App may remove locally stored application information, subject to the mobile operating system and applicable backup mechanisms.
+Deleting the App does not necessarily erase schedules or configurations retained by the ReefEvolve lighting system.
+Users should follow applicable reset procedures before transferring, selling, or disposing of their lighting system.
+6. Diagnostic Monitoring and Troubleshooting Limitations
+Wi-Fi connectivity is optional for normal App operation but is required for cloud-based diagnostic monitoring.
+When a registered user's ReefEvolve lighting system is connected through Wi-Fi, relevant diagnostic information may be automatically transmitted to NextGen ReefTech servers.
+This information assists with:
+• Identifying technical problems;
+• Investigating reported malfunctions;
+• Reviewing system errors;
+• Evaluating connectivity interruptions;
+• Understanding operating conditions preceding an incident; and
+• Improving product reliability.
+Important Diagnostic Limitation
+Users who choose Bluetooth-only operation may have limited historical diagnostic information available to NextGen ReefTech.
+Because automatic cloud-based diagnostic reporting is not enabled during Bluetooth-only operation, NextGen ReefTech may be unable to review the operational events preceding a reported malfunction.
+Establishing Wi-Fi connectivity after an incident does not guarantee that earlier diagnostic information will be available.
+Consequently, the Company may be unable to determine the precise cause of certain reported issues when relevant historical records were not previously collected.
+These limitations do not eliminate applicable warranty rights, statutory protections, or legal obligations.
+7. Remote Access and Administrative Control
+NextGen ReefTech personnel do not have remote administrative access to operate or control customers' ReefEvolve lighting systems.
+Company personnel cannot independently change a customer's lighting schedules, adjust lighting intensity, or remotely operate the lighting system through an administrative console.
+NextGen ReefTech may maintain administrative tools for cloud services, diagnostic information, software maintenance, and authorized firmware distribution.
+These capabilities do not grant Company personnel remote control over customer lighting operations.
+8. Information Sharing and Disclosure
+We may disclose information to the following categories of recipients when necessary and legally permitted.
+8.1 Service Providers
+We may use third-party providers for:
+• Cloud hosting and infrastructure;
+• Account authentication;
+• Analytics and crash reporting;
+• Software distribution;
+• Customer support; and
+• Information security.
+Providers processing personal information on our behalf are subject to applicable contractual and security requirements.
+8.2 Legal and Regulatory Requirements
+We may disclose information when required by applicable law, lawful court orders, valid legal requests, or regulatory obligations.
+8.3 Protection of Rights and Security
+We may disclose information where legally permitted and reasonably necessary to investigate security incidents, prevent fraud, protect users, or defend legal rights.
+8.4 Business Transactions
+Information may be transferred in connection with a merger, acquisition, restructuring, financing, or sale of Company assets, subject to applicable legal requirements.
+8.5 User-Authorized Disclosure
+We may disclose information when you expressly authorize or direct us to do so.
+Any sale of personal information, sharing for targeted advertising, or independent advertising-related use by third parties must be separately disclosed and subject to applicable privacy rights and requirements.
+9. Data Security
+NextGen ReefTech maintains administrative, technical, and organizational safeguards designed to protect personal information and connected-system data.
+Our security measures are intended to address:
+• Secure network communications;
+• Protection of account credentials;
+• Protection of locally stored Wi-Fi credentials;
+• Authentication and access controls;
+• Restricted access to cloud-stored information;
+• Security monitoring;
+• Software and firmware maintenance; and
+• Security-incident investigation and response.
+Access to personal information is restricted to authorized personnel and service providers with legitimate operational needs.
+No electronic system can be guaranteed completely secure.
+Nothing in this Privacy Policy limits any legal security obligation or responsibility that cannot lawfully be excluded.
+10. Data Retention
+We retain personal information for periods reasonably necessary to provide the Services, maintain security, resolve technical issues, comply with legal obligations, and address legitimate business requirements.
+Retention periods or criteria depend on the type of information and the purpose for which it is processed.
+Relevant categories include:
+• Account information;
+• Cloud-stored lighting schedules and configurations;
+• System diagnostic records;
+• Application analytics and crash reports;
+• Authentication and security logs;
+• Customer-support records; and
+• Backup information.
+Locally stored information may remain on a user's mobile device or ReefEvolve lighting system until deleted, reset, overwritten, or otherwise removed through supported procedures.
+When retained information is no longer necessary, we will delete, anonymize, or securely dispose of it in accordance with applicable legal requirements and our established retention procedures.
+11. User Privacy Rights
+Depending on applicable law and your location, you may have rights to:
+• Request access to personal information we maintain;
+• Request correction of inaccurate information;
+• Request deletion of personal information;
+• Obtain a portable copy of certain information;
+• Withdraw consent where processing relies on consent;
+• Object to or restrict certain processing activities;
+• Opt out of certain advertising-related uses where applicable; and
+• Appeal a privacy-request decision where required by law.
+We may request reasonable verification of your identity before processing certain requests.
+We may retain limited information where required or permitted by applicable law.
+We will not unlawfully discriminate against individuals for exercising applicable privacy rights.
+Privacy requests may be submitted to:
+Support@Nextgenreeftech.com
+We will respond within applicable legal timeframes.
+12. Account Deletion
+Users may request deletion of their NextGen ReefTech accounts through the account-deletion functionality provided within the App or through our designated online deletion mechanism.
+Following verification, we will delete or de-identify associated personal information unless continued retention is required or permitted by applicable law.
+Account deletion may result in loss of access to App functionality and account-dependent cloud services.
+Deleting an account does not necessarily erase information stored locally on the mobile device or ReefEvolve lighting system.
+Deleting the App alone does not necessarily delete an associated account or cloud-stored information.
+13. Mobile Device Permissions
+The App may request access to mobile-device capabilities required for supported functionality, including:
+• Bluetooth connectivity;
+• Nearby-device discovery;
+• Local network access; and
+• Notifications.
+Permissions are requested as appropriate to the operating system and applicable features.
+Users may manage certain permissions through their mobile-device settings.
+Disabling permissions may prevent features that depend on those capabilities from functioning correctly.
+The App does not require access to unrelated personal content for normal lighting operation.
+14. Children's Privacy
+The App and Services are intended for adults and are not directed toward children under 13.
+We do not knowingly collect personal information from children under 13 in violation of applicable law.
+If we learn that personal information has been collected from a child in circumstances requiring deletion, we will take appropriate corrective action.
+Parents or guardians may contact us regarding suspected collection of a child's personal information.
+15. International Data Processing
+NextGen ReefTech LLC is based in the United States.
+Information may be processed in the United States or other jurisdictions where our authorized service providers operate.
+Where applicable international data-protection laws require additional safeguards, disclosures, or transfer mechanisms, we will implement those requirements.
+Users in jurisdictions with additional privacy rights may exercise those rights as provided by applicable law.
+16. Third-Party Services
+The App may incorporate third-party software libraries, authentication systems, analytics services, crash-reporting tools, cloud infrastructure, and other supporting technologies.
+Such services may process information necessary for their intended functionality.
+NextGen ReefTech will provide applicable disclosures and implement appropriate contractual and technical protections.
+Independent third-party websites or services may operate under their own privacy policies.
+We encourage users to review those policies when interacting directly with independent services.
+17. Security Incidents and Data Breaches
+If we identify a security incident involving personal information, we will investigate and take appropriate steps to contain, address, and remediate the incident.
+Where required by applicable law, we will notify affected individuals, regulators, or other authorities within the applicable legal timeframes.
+The nature and timing of notifications will depend on the circumstances and governing law.
+18. Changes to This Privacy Policy
+We may update this Privacy Policy to reflect changes in our Services, technologies, information practices, or legal obligations.
+Revisions will be published with an updated effective or revision date.
+Where changes are material, we will provide additional notice or obtain consent when required by applicable law.
+Continued use of the Services does not substitute for legally required consent.
+19. Contact Information
+For questions, concerns, or requests regarding this Privacy Policy or our handling of personal information, contact:
+NextGen ReefTech LLC
+Florida, United States
+Privacy Email: Support@Nextgenreeftech.com
+Website: Nextgenreeftech.com
+We will review privacy-related inquiries and respond as required by applicable law.
+ 
+END OF PRIVACY POLICY
+ 
